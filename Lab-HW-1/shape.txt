@@ -1,0 +1,2 @@
+TSS = y - y.mean()
+RSS = y - y_predicted.reshape(y.shape)
