@@ -1,5 +1,5 @@
 # AT82.03_ML
 
-AT82.03 Machine Learning <br>
-Semester: August 2021 <br>
-Instructor: Prof.Matthew Dailey <br>
+ <b>AT82.03 Machine Learning</b> <br>
+<b>Semester:</b> August 2021 <br>
+<b>Instructor:</b> Prof.Matthew Dailey <br>
